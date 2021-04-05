@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koala.Api.Identity", "Koala.Api.Identity\Koala.Api.Identity.csproj", "{AFA0CBB4-2E6F-4F36-A1F4-15D52C1BE49D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koala.Api.Identity", "Koala.Api.Identity\Koala.Api.Identity.csproj", "{AFA0CBB4-2E6F-4F36-A1F4-15D52C1BE49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koala.Entities", "Koala.Entities\Koala.Entities.csproj", "{2B920433-FA7D-4034-936F-3A9988ABD18C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koala.Entities", "Koala.Entities\Koala.Entities.csproj", "{2B920433-FA7D-4034-936F-3A9988ABD18C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2EAA077-0C4C-4321-8B0C-527380CBD7E4}"
 	ProjectSection(SolutionItems) = preProject
