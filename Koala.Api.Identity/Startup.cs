@@ -47,6 +47,7 @@ namespace Koala.Api.Identity
               .AddDefaultTokenProviders();
 
             services.AddSingleton<IPasswordGenerator, PasswordGenerator>();
+            services.AddSingleton<ITokenGenerator, TokenGenerator>();
 
             services.AddControllers();
 
